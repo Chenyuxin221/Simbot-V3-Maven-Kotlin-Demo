@@ -6,8 +6,8 @@ import org.springframework.boot.runApplication
 
 @SpringBootApplication
 @EnableSimbot
-class SimbotV3MavenDemoApplication
+class Application
 
 fun main(args: Array<String>) {
-    runApplication<SimbotV3MavenDemoApplication>(*args)
+    runApplication<Application>(*args)
 }
