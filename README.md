@@ -1,6 +1,8 @@
 基于V3 SimpleBot for mirai写的demo
 
-没有run过，有问题提issue或者直接找我
+要求：jdk版本>=17
+
+没有run过，有问题提issues或者直接找我
 ### 传送门
 
 [官方文档](https://simbot.forte.love/)
